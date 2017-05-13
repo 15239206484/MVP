@@ -63,7 +63,6 @@ public class LoginActivity extends BaseAcitivty implements LoginView {
     @Override
     public void goToRegister() {
 
-
     }
 
     @Override
